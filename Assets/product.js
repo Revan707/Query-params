@@ -1,0 +1,20 @@
+const products=[
+    {
+        id:1,
+        image:"apple-png-image.jpg",
+        name:"Apple",
+        price:25
+    },
+    {
+        id:2,
+        image:"orange-1.jpg",
+        name:"Orange",
+        price:25
+    },
+    {
+        id:3,
+        image:"836px-Banana.png",
+        name:"Banana",
+        price:25
+    },
+]
